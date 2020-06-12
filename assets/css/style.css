@@ -1,0 +1,22 @@
+#welcome {
+    text-align: center;
+    text-shadow: 2px 2px gray;
+    font-family: 'Anton', sans-serif;
+}
+
+#blankTop {
+    height: 250px;
+}
+
+#buttonDiv {
+    padding-left: 110px;
+    padding-top: 15px;
+}
+
+button {
+    background: none;
+    color: gray;
+    border: 1.5px solid;
+    border-color: gray;
+    border-radius: 15px;
+}
