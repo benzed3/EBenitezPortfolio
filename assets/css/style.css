@@ -8,9 +8,8 @@
     height: 250px;
 }
 
-#buttonDiv {
-    padding-left: 110px;
-    padding-top: 15px;
+.bDiv {
+    width: 33%;
 }
 
 button {
@@ -19,6 +18,8 @@ button {
     border: 1.5px solid;
     border-color: gray;
     border-radius: 15px;
+    position: relative;
+    left: 95px;
 }
 
 a:link, a:visited {
