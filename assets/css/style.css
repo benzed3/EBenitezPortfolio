@@ -67,3 +67,11 @@ a:hover {
     }
 
 }
+
+@media screen and (max-height: 414px) {
+    
+    #blankTop {
+        height: 150px;
+    }
+
+}
