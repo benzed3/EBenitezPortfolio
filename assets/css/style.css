@@ -41,7 +41,11 @@ a:hover {
     color: blue;
 }
 
-.box {
+.middle {
+    height: 250px;
+}
+
+h5 {
     background: skyblue;
     text-align: center;
 }
