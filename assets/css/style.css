@@ -40,3 +40,30 @@ a:link:active, a:visited:active {
 a:hover {
     color: blue;
 }
+
+@media screen and (max-width: 1199px) {
+    
+    button {
+        position: absolute;
+        left: 26%;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    
+    button {
+        position: absolute;
+        left: 20%;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    
+    button {
+        position: absolute;
+        left: 11%;
+    }
+
+}
