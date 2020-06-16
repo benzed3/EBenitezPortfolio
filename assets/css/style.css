@@ -54,6 +54,13 @@ h5 {
     bottom: 0;
     width: 100%;
     padding: 8px 0 8px 0;
+    color: white;
+}
+
+h5, a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    cursor: auto;
 }
 
 .boxes {
