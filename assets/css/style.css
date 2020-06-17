@@ -65,6 +65,8 @@ h5, a:link, a:visited {
 
 .boxes {
     padding: 0;
+    border-style: double;
+    border-width: 3px;
 }
 
 img {
