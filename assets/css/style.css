@@ -76,13 +76,29 @@ img {
     width: 75%;
   }
 
-#me {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
+#aboutMeNav {
+    margin-top: 40px;
+    background: palegoldenrod;
+    height: 450px;
 }
 
+.box2 {
+    width: 33%;
+    height: 270px;
+}
+
+#me {
+    border-radius: 130px;
+}
+
+p {
+    margin: 0;
+    background: white;
+    margin: 5px 100px 0px 100px;
+    padding: 1px 10px 1px 10px;
+    border-style: double;
+    border-width: 3px;
+}
 @media screen and (max-width: 1199px) {
     
     button {
