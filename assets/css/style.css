@@ -16,7 +16,7 @@
     width: 33%;
 }
 
-button {
+#button {
     background: none;
     color: gray;
     border: 1.5px solid;
@@ -79,7 +79,7 @@ img {
 #aboutMeNav {
     margin-top: 40px;
     background: palegoldenrod;
-    height: 450px;
+    height: 600px;
 }
 
 .box2 {
