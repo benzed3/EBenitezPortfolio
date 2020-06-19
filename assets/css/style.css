@@ -58,7 +58,7 @@ h5 {
 }
 
 h5, a:link, a:visited {
-    color: white;
+    color: gray;
     text-decoration: none;
     cursor: auto;
 }
