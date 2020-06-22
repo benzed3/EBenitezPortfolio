@@ -109,6 +109,15 @@ p {
 #contactDiv {
     background: lightcoral;
     height: 100%;
+    height: 250px;
+}
+
+hr {
+    background: white;
+}
+
+h2 {
+    text-align: center;
 }
 
 @media screen and (max-width: 1199px) {
