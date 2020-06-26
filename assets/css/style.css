@@ -31,7 +31,6 @@
 a:link, a:visited {
     color: gray;
     text-decoration: none;
-    cursor: auto;
 }
 
 a:link:active, a:visited:active {
@@ -60,7 +59,6 @@ h5 {
 h5, a:link, a:visited {
     color: gray;
     text-decoration: none;
-    cursor: auto;
 }
 
 .boxes {
