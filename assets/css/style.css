@@ -80,8 +80,13 @@ img {
     height: 270px;
 }
 
+#rowOne {
+    margin-bottom: 10px;;
+}
+
 #me {
     border-radius: 130px;
+    margin-top: 10px;
 }
 
 p {
