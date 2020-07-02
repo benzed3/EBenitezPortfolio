@@ -116,6 +116,10 @@ h2 {
     text-align: center;
 }
 
+.works {
+    padding: 0;
+}
+
 #contactRow {
     height: 200px;
 }
