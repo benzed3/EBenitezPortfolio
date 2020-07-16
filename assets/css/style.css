@@ -130,6 +130,10 @@ h2 {
     padding-bottom: 10px;
 }
 
+ul.a {
+    list-style-type: circle;
+  }
+
 @media screen and (max-width: 1199px) {
     
     #button {
