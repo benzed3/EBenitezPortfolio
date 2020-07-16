@@ -132,6 +132,7 @@ h2 {
 
 ul.a {
     list-style-type: circle;
+    margin-left: 10px;
   }
 
 @media screen and (max-width: 1199px) {
