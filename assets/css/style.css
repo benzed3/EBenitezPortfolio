@@ -130,6 +130,15 @@ h2 {
     padding-bottom: 10px;
 }
 
+.center {
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
 ul.a {
     list-style-type: circle;
     margin-left: 25px;
