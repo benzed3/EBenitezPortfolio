@@ -168,6 +168,10 @@ ul.a {
         margin-top: 60px;
     }
 
+    img {
+       width: 25%; 
+    }
+
 }
 
 @media screen and (max-width: 767px) {
