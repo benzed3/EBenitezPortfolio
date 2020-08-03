@@ -172,6 +172,10 @@ ul.a {
        width: 25%; 
     }
 
+    .boxes {
+        margin-bottom: 5px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -190,6 +194,11 @@ ul.a {
 @media screen and (max-width: 528px) {
     #aboutMeNav {
         height: 660px;
+    }
+
+    .boxes {
+        margin-left: 15px;
+        margin-right: 15px;
     }
 }
 
