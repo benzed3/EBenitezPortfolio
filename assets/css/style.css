@@ -202,6 +202,11 @@ ul.a {
         margin-left: 15px;
         margin-right: 15px;
     }
+
+    #contactRow2 {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }
 
 @media screen and (max-height: 414px) {
