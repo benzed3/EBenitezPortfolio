@@ -166,6 +166,7 @@ ul.a {
 
     #me {
         margin-top: 60px;
+        width: 90%;
     }
 
     img {
@@ -186,7 +187,8 @@ ul.a {
     }
 
     #me {
-        margin-top: 90px;
+        margin-top: 75px;
+        width: 115%;
     }
 
 }
