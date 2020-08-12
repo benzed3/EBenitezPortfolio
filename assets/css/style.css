@@ -155,6 +155,7 @@ ul.a {
     #button {
         position: absolute;
         left: 26%;
+        padding-bottom: 2px;
     }
 
     #me {
