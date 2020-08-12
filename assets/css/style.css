@@ -69,6 +69,18 @@ img {
     width: 75%;
 }
 
+#imgOne {
+    width: 50%;
+}
+
+#imgTwo {
+    width: 75%;
+}
+
+#imgThree {
+    width: 80%;
+}
+
 #aboutMeNav {
     margin-top: 40px;
     background: palegoldenrod;
