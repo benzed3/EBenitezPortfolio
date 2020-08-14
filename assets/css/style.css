@@ -173,6 +173,21 @@ ul.a {
         margin-top: 35px;
     }
 
+    #imgOne {
+        width: 50%;
+        margin-top: 20px;
+    }
+    
+    #imgTwo {
+        width: 75%;
+        margin-top: 24px;
+    }
+    
+    #imgThree {
+        width: 75%;
+        margin-top: 40px;
+    }
+
 }
 
 @media screen and (max-width: 991px) {
@@ -193,6 +208,21 @@ ul.a {
 
     .boxes {
         margin-bottom: 5px;
+    }
+
+    #imgOne {
+        width: 50%;
+        margin-top: 0;
+    }
+    
+    #imgTwo {
+        width: 75%;
+        margin-top: 0;
+    }
+    
+    #imgThree {
+        width: 75%;
+        margin-top: 0;
     }
 
 }
