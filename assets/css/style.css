@@ -88,6 +88,7 @@ img {
     margin-top: 40px;
     background: palegoldenrod;
     height: 500px;
+    box-shadow: 10px 10px;
 }
 
 .box2 {
