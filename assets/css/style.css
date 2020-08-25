@@ -353,4 +353,8 @@ ul.a {
         margin: 0 30px 0 30px;
     }
 
+    #contactRow {
+        height: 75px;
+    }
+
 }
