@@ -366,3 +366,11 @@ ul.a {
     }
 
 }
+
+@media screen and (max-width: 450px) and (max-height: 600px) {
+
+    #contactRow {
+        height: 100px;
+    }
+
+}
