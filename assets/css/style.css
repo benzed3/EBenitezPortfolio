@@ -239,6 +239,10 @@ ul.a {
         margin-top: 0;
     }
 
+    #aboutMeNav {
+        height: 545px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -251,6 +255,10 @@ ul.a {
     #me {
         margin-top: 75px;
         width: 115%;
+    }
+
+    #aboutMeNav {
+        height: 640px;
     }
 
 }
