@@ -109,8 +109,12 @@ img {
 
 #me {
     border-radius: 130px;
-    margin-top: 25px;
+    margin-top: 35px;
     width: 65%;
+}
+
+#about {
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 p {
