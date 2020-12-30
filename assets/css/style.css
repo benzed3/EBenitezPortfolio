@@ -338,7 +338,7 @@ ul.a {
     }
 
     p {
-        margin: 0 40px 0 40px;
+        margin: 0 30px 0 30px;
     }
 
 }
@@ -414,6 +414,14 @@ ul.a {
 
     #contactRow {
         height: 100px;
+    }
+
+}
+
+@media screen and (max-width: 280px) and (max-height: 653px) {
+
+    p {
+        margin: 0 10px 0 10px;
     }
 
 }
