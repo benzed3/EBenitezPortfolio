@@ -1,3 +1,5 @@
+/* index.html intro page */
+
 #welcome {
     text-align: center;
     text-shadow: 2px 2px gray;
@@ -330,7 +332,7 @@ ul.a {
 
     #button {
         position: absolute;
-        left: 0%;
+        left: -4%;
         width: 145px;
     }
 
