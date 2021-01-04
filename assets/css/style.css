@@ -435,14 +435,14 @@ ul.a {
 
 }
 
-@media screen and (max-width: 653px) {
+@media screen and (max-height: 280px) {
 
     p {
         margin: 0 20px 0 20px;
     }
 
     #blankTop {
-        height: 100px;
+        height: 90px;
     }
 
 }
