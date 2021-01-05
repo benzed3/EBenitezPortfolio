@@ -217,12 +217,13 @@ ul.a {
     }
 
     img {
-       width: 25%; 
+       width: 43%; 
     }
 
     .row2 {
         float: left;
         width: 33%;
+        height: 175px;
     }
 
     .boxes {
