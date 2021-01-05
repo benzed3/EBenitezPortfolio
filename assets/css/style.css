@@ -220,6 +220,11 @@ ul.a {
        width: 25%; 
     }
 
+    .row2 {
+        float: left;
+        width: 33%;
+    }
+
     .boxes {
         margin-bottom: 5px;
     }
