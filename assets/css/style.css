@@ -441,6 +441,14 @@ ul.a {
         font-size: 35px;
     }
 
+    #contactRow {
+        height: 115px;
+    }
+
+    #contactRow2 {
+        width: 255px;
+    }
+
 }
 
 @media screen and (max-height: 280px) {
