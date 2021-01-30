@@ -288,6 +288,18 @@ ul.a {
 
 }
 
+@media screen and (max-width: 540px) and (max-height: 720px) {
+
+    p {
+        width: 380px;
+    }
+
+    #aboutMeNav {
+        height: 600px;
+    }
+
+}
+
 @media screen and (max-width: 528px) {
     #aboutMeNav {
         height: 660px;
