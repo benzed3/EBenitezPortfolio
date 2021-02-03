@@ -449,6 +449,10 @@ ul.a {
         width: 255px;
     }
 
+    #aboutMeNav {
+        height: 640px;
+    }
+
 }
 
 @media screen and (max-height: 280px) {
