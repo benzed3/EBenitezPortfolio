@@ -470,3 +470,15 @@ ul.a {
     }
 
 }
+
+@media screen and (max-width: 540px) {
+    #aboutMeNav {
+        height: 640px;
+    }
+}
+
+@media screen and (max-height: 540px) {
+    #aboutMeNav {
+        height: 640px;
+    }
+}
