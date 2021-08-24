@@ -101,9 +101,11 @@ img {
 
 #aboutMeNav {
     margin-top: 40px;
-    background: palegoldenrod;
+    background: white;
     height: 500px;
     box-shadow: 10px 10px;
+    border-style: double;
+    border-width: 3px;
 }
 
 .box2 {
