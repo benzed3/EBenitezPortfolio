@@ -332,6 +332,32 @@ ul.a {
 
 }
 
+@media screen and (max-width: 540px) {
+
+    #welcome {
+        font-size: 35px;
+    }
+
+    #button {
+        font-size: 15px;
+        left: 15%;
+    }
+
+}
+
+@media screen and (max-height: 540px) and (max-width: 720px) {
+
+    #welcome {
+        font-size: 35px;
+    }
+
+    #button {
+        font-size: 15px;
+        left: 15%;
+    }
+
+}
+
 @media screen and (max-width: 528px) {
     #aboutMeNav {
         height: 660px;
