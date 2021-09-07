@@ -226,6 +226,19 @@ ul.a {
 
 }
 
+@media screen and (max-height: 1025px) and (max-width: 1367px) {
+
+    #welcome {
+        font-size: 50px;
+    }
+
+    #button {
+        font-size: 20px;
+        left: 25%;
+    }
+
+}
+
 @media screen and (max-width: 991px) {
     
     #button {
