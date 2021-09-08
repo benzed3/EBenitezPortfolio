@@ -39,7 +39,7 @@ a:link, a:visited {
 }
 
 a:link:active, a:visited:active {
-    color: gray;
+    color: darkgray;
   }
 
 a:hover {
@@ -398,9 +398,30 @@ ul.a {
         width: 35%;
     }
 
+    /*main page 414px*/
+
+    #blankTop {
+        height: 50px;
+    }
+
 }
 
-@media screen and (max-height: 415px) and (max-width: 736px) {
+@media screen and (max-height: 415px) and (max-width: 813px) {
+
+    /*main page*/
+
+    #blankTop {
+        height: 85px;
+    }
+
+    .boxes {
+        height: 170px;
+        width: 33%;
+    }
+
+}
+
+@media screen and (max-height: 415px) and (max-width: 737px) {
 
     #welcome {
         font-size: 30px;
@@ -408,6 +429,16 @@ ul.a {
 
     #button {
         font-size: 12px;
+    }
+
+    /*main page*/
+    #blankTop {
+        height: 100px;
+    }
+
+    .boxes {
+        width: 33%;
+        height: 150px;
     }
 
 }
@@ -429,6 +460,7 @@ ul.a {
     }
 
 }
+
 
 @media screen and (max-width: 375px) and (max-height: 812px) {
 
