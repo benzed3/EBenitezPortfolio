@@ -213,8 +213,8 @@ ul.a {
 
 @media screen and (max-width: 991px) {
     
+    /*for index.html*/
     #button {
-        position: absolute;
         left: 20%;
     }
 
@@ -260,8 +260,8 @@ ul.a {
 
 @media screen and (max-width: 767px) {
     
+    /*for index.html*/
     #button {
-        position: absolute;
         left: 11%;
     }
 
@@ -278,34 +278,21 @@ ul.a {
 
 @media screen and (max-width: 768px) and (max-height: 1024px) {
 
-    #blankTop {
-        height: 125px;
-    }
-
     #aboutMeNav {
         height: 540px;
-    }
-
-    #welcome {
-        font-size: 45px;
-    }
-
-    #button {
-        left: 15%;
     }
 
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
 
-    #button {
-        left: 20%;
-    }
+    
 
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 540px) and (max-height: 720px) {
 
+    /*for index.html*/
     #welcome {
         font-size: 35px;
     }
@@ -317,20 +304,22 @@ ul.a {
 
 }
 
-@media screen and (max-height: 540px) and (max-width: 720px) {
+@media screen and (max-height: 541px) and (max-width: 721px) {
 
+    /*for index.html*/
     #welcome {
         font-size: 35px;
     }
 
     #button {
-        font-size: 15px;
+        font-size: 14px;
         left: 15%;
     }
 
 }
 
 @media screen and (max-width: 528px) {
+    
     #aboutMeNav {
         height: 660px;
     }
@@ -344,14 +333,6 @@ ul.a {
         margin-left: 20px;
         margin-right: 20px;
     }
-}
-
-@media screen and (max-height: 414px) {
-    
-    #blankTop {
-        height: 150px;
-    }
-
 }
 
 @media screen and (max-width: 415px) {
@@ -387,8 +368,6 @@ ul.a {
 }
 
 @media screen and (max-height: 415px) and (max-width: 813px) {
-
-    /*main page*/
 
     #blankTop {
         height: 85px;
