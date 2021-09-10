@@ -32,7 +32,6 @@
 }
 
 /*main page css; navbar and links*/
-
 a:link, a:visited {
     color: gray;
     text-decoration: none;
@@ -176,11 +175,10 @@ ul.a {
 /* Media Queries */
 
 @media screen and (max-width: 1199px) {
-    
+
+    /*for index.html*/
     #button {
-        position: absolute;
-        left: 26%;
-        padding-bottom: 2px;
+        left: 27%;
     }
 
     #me {
@@ -207,26 +205,8 @@ ul.a {
 
 @media screen and (max-width: 1024px) {
 
-    #welcome {
-        font-size: 55px;
-    }
-
     #button {
-        font-size: 25px;
-        left: 15%;
-    }
-
-}
-
-@media screen and (max-height: 1025px) and (max-width: 1367px) {
-
-    #welcome {
-        font-size: 50px;
-    }
-
-    #button {
-        font-size: 20px;
-        left: 25%;
+        left: 27%;
     }
 
 }
@@ -460,7 +440,6 @@ ul.a {
     }
 
 }
-
 
 @media screen and (max-width: 375px) and (max-height: 812px) {
 
