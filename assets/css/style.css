@@ -208,22 +208,22 @@ ul.a {
     }
 
     .boxes {
-        height: 250px;
+        width: 33%;
     }
 
     #imgOne {
-        margin-top: 0;
-        width: 29%;
+        margin-top: 30px;
+        width: 60%;
     }
 
     #imgTwo {
-        margin-top: 0;
-        width: 44%;
+        margin-top: 30px;
+        width: 90%;
     }
 
     #imgThree {
-        margin-top: 0;
-        width: 55%;
+        margin-top: 40px;
+        width: 90%;
     }
 
  }
@@ -238,6 +238,19 @@ ul.a {
     /*main.html*/
     #blankTop {
         height: 200px;
+    }
+
+    #imgOne {
+        margin-top: 8px;
+        width: 60%;
+    }
+
+    #imgTwo {
+        width: 90%;
+    }
+
+    #imgThree {
+        width: 90%;
     }
 
  }
