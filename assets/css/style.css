@@ -288,6 +288,31 @@ ul.a {
         left: 7%;
     }
 
+    /*main.html*/
+    #blankTop {
+        height: 45px;
+    }
+
+    .boxes {
+        width: 80%;
+        margin: 0 0 0 55px;
+    }
+
+    #imgOne {
+        margin-top: 5px;
+        width: 34%;
+    }
+
+    #imgTwo {
+        width: 50%;
+        margin-top: 7px;
+    }
+
+    #imgThree {
+        width: 55%;
+        margin-top: 15px;
+    }
+
  }
 
  @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -303,6 +328,15 @@ ul.a {
 
     #button {
         left: 6%;
+    }
+
+    /*main.html*/
+    #blankTop {
+        height: 150px;
+    }
+
+    .boxes {
+        height: 170px;
     }
 
  }
