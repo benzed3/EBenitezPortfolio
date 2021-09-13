@@ -357,6 +357,11 @@ ul.a {
         left: 9%;
     }
 
+    /*main.html*/
+    .boxes {
+        height: 140px;
+    }
+
  }
 
  @media screen and (max-height: 415px) and (max-height: 736px) {
@@ -372,6 +377,15 @@ ul.a {
 
     #button {
         left: 6%;
+    }
+
+    /*main.html*/
+    #blankTop {
+        height: 90px;
+    }
+
+    .boxes {
+        height: 165px;
     }
 
  }
