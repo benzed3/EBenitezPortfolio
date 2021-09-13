@@ -202,6 +202,30 @@ ul.a {
         left: 20%;
     }
 
+    /*main.html*/
+    #blankTop {
+        height: 140px;
+    }
+
+    .boxes {
+        height: 250px;
+    }
+
+    #imgOne {
+        margin-top: 0;
+        width: 29%;
+    }
+
+    #imgTwo {
+        margin-top: 0;
+        width: 44%;
+    }
+
+    #imgThree {
+        margin-top: 0;
+        width: 55%;
+    }
+
  }
 
  @media screen and (max-height: 768px) and (max-width: 1024px) {
@@ -209,6 +233,11 @@ ul.a {
     /*index.html*/
     #blankTop {
         height: 305px;
+    }
+
+    /*main.html*/
+    #blankTop {
+        height: 200px;
     }
 
  }
@@ -362,7 +391,10 @@ ul.a {
 
     .bDiv {
         width: 35%;
-        left: -4%;
+    }
+
+    #button {
+        left: 2%;
     }
 
  }
