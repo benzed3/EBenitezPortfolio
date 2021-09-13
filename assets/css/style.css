@@ -225,20 +225,21 @@ ul.a {
 
     .boxes {
         width: 33%;
+        height: 200px;
     }
 
     #imgOne {
-        margin-top: 30px;
+        margin-top: 7px;
         width: 60%;
     }
 
     #imgTwo {
-        margin-top: 30px;
+        margin-top: 8px;
         width: 90%;
     }
 
     #imgThree {
-        margin-top: 40px;
+        margin-top: 23px;
         width: 90%;
     }
 
@@ -263,6 +264,7 @@ ul.a {
 
     #imgTwo {
         width: 90%;
+        margin-top: 10px;
     }
 
     #imgThree {
