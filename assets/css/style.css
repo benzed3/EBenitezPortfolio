@@ -184,6 +184,22 @@ ul.a {
         left: 27%;
     }
 
+    /*main.html*/
+    #imgOne {
+        width: 50%;
+        margin-top: 25px;
+    }
+
+    #imgTwo {
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    #imgThree {
+        width: 80%;
+        margin-top: 35px;
+    }
+
 }
 
  @media screen and (max-height: 1024px) and (max-width: 1367px) {
@@ -192,7 +208,7 @@ ul.a {
     #blankTop {
         height: 375px;
     }
-
+    
  }
 
  @media screen and (max-width: 768px) and (max-height: 1024px) {
