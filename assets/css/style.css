@@ -564,6 +564,11 @@ ul.a {
         left: 8px;
     }
 
+    /*main.html*/
+    .boxes {
+        margin-left: 30px;
+    }
+
  }
 
  @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -575,6 +580,11 @@ ul.a {
 
     #button {
         left: 6%;
+    }
+
+    /*main.html*/
+    #blankTop {
+        height: 25px;
     }
 
  }
