@@ -200,6 +200,19 @@ ul.a {
         margin-top: 35px;
     }
 
+    /*aboutMe.html*/
+    #aboutMeNav {
+        margin-top: 300px;
+    }
+
+    .box2 {
+        height: 240px;
+    }
+
+    p {
+        margin: 0 140px 0 140px;
+    }
+
 }
 
  @media screen and (max-height: 1024px) and (max-width: 1367px) {
@@ -207,6 +220,11 @@ ul.a {
     /*index.html*/
     #blankTop {
         height: 375px;
+    }
+
+    /*aboutMe.html*/
+    #aboutMeNav {
+        margin-top: 200px;
     }
     
  }
