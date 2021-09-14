@@ -406,6 +406,11 @@ ul.a {
         left: 12%;
     }
 
+    /*main.html*/
+    .boxes {
+        height: 150px;
+    }
+
  }
 
  @media screen and (max-height: 412px) and (max-width: 824px) {
@@ -417,6 +422,20 @@ ul.a {
 
     #button {
         left: 17%;
+    }
+
+    /*main.html*/
+    #blankTop {
+        height: 80px;
+    }
+
+    .boxes {
+        width: 33%;
+        height: 200px;
+    }
+
+    #imgThree {
+        margin-top: 25px;
     }
 
  }
