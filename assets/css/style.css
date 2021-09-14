@@ -345,6 +345,15 @@ ul.a {
         margin-top: 15px;
     }
 
+    /*aboutMe.html*/
+    .box2 {
+        height: 150px;
+    }
+
+    p {
+        margin: 0 45px 0 45px;
+    }
+
  }
 
  @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -369,6 +378,20 @@ ul.a {
 
     .boxes {
         height: 170px;
+    }
+
+    /*aboutMe.html*/
+    #aboutMeNav {
+        margin-top: 15px;
+        height: 450px;
+    }
+
+    .box2 {
+        height: 130px;
+    }
+
+    p {
+        margin: 0 45px 0 45px;
     }
 
  }
