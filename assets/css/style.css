@@ -47,6 +47,10 @@ a:hover {
 
 /*main page css; formating*/
 
+#blankTop2 {
+    height: 250px;
+}
+
 .middle {
     height: 250px;
 }
