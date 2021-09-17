@@ -550,6 +550,28 @@ ul.a {
 
  }
 
+ @media screen and (max-width: 376px) and (max-height: 813px) {
+
+    /*main.html*/
+    #blankTop2 {
+        height: 120px;
+    }
+
+    #imgOne {
+        margin-top: 5px;
+    }
+
+    #imgTwo {
+        margin-top: 3px;
+        width: 75%;
+    }
+
+    #imgThree {
+        margin-top: 8px;
+    }
+
+ }
+
  @media screen and (max-width: 376px) and (max-height: 668px) {
 
     /*index.html*/
@@ -559,12 +581,14 @@ ul.a {
 
     /*main.html*/
     #blankTop2 {
-        height: 85px;
+        height: 75px;
     }
 
     .boxes {
         margin-left: 45px;
     }
+
+    #img
 
  }
 
