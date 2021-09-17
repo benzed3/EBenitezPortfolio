@@ -643,11 +643,27 @@ ul.a {
 
     /*main.html*/
     #blankTop2 {
-        height: 35px;
+        height: 65px;
     }
 
     .boxes {
-        margin-left: 35px;
+        margin-left: 60px;
+        height: 130px;
+    }
+
+    #imgOne {
+        margin-top: 0;
+        width: 41%;
+    }
+
+    #imgTwo {
+        margin-top: 0;
+        width: 64%;
+    }
+
+    #imgThree {
+        margin-top: 2px;
+        width: 75%;
     }
 
  }
