@@ -417,8 +417,28 @@ ul.a {
     }
 
     /*main.html*/
+    #blankTop2 {
+        height: 115px;
+    }
+
     .boxes {
-        height: 140px;
+        height: 160px;
+        width: 65%;
+        margin-left: 80px;
+    }
+
+    #imgOne {
+        width: 38%;
+    }
+
+    #imgTwo {
+        width: 60%;
+        margin-top: 5px;
+    }
+
+    #imgThree {
+        width: 75%;
+        margin-top: 5px;
     }
 
  }
