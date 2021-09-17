@@ -237,7 +237,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 140px;
     }
 
@@ -280,7 +280,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 200px;
     }
 
@@ -321,7 +321,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 45px;
     }
 
@@ -372,7 +372,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 150px;
     }
 
@@ -435,7 +435,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 90px;
     }
 
@@ -480,7 +480,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 80px;
     }
 
@@ -513,11 +513,11 @@ ul.a {
 
     /*index.html*/
     #button {
-        left: 7%;
+        left: 5%;
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 85px;
     }
 
@@ -553,7 +553,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 75px;
     }
 
@@ -579,7 +579,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 35px;
     }
 
@@ -592,7 +592,7 @@ ul.a {
  @media screen and (max-height: 320px) and (max-width: 568px) {
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 60px;
     }
 
@@ -638,7 +638,7 @@ ul.a {
     }
 
     /*main.html*/
-    #blankTop {
+    #blankTop2 {
         height: 25px;
     }
 
