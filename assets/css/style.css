@@ -487,7 +487,24 @@ ul.a {
 
     /*main.html*/
     .boxes {
-        height: 150px;
+        height: 170px;
+        width: 65%;
+        margin-left: 75px;
+    }
+
+    #imgOne {
+        margin-top: 0;
+        width: 47%;
+    }
+
+    #imgTwo {
+        margin-top: 5px;
+        width: 65%;
+    }
+
+    #imgThree {
+        margin-top: 3px;
+        width: 85%;
     }
 
  }
