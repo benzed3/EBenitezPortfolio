@@ -699,8 +699,27 @@ ul.a {
     }
 
     /*main.html*/
+    #blankTop2 {
+        height: 90px;
+    }
+
     .boxes {
-        margin-left: 30px;
+        margin-left: 55px;
+        height: 130px;
+    }
+
+    #imgOne {
+        margin-top: 0;
+        width: 47%;
+    }
+
+    #imgTwo {
+        margin-top: 0;
+        width: 73%;
+    }
+
+    #imgThree {
+        margin-top: 2px;
     }
 
  }
