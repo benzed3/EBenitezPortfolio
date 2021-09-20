@@ -809,6 +809,23 @@ ul.a {
         width: 75%;
     }
 
+    /*aboutMe.html*/
+    #aboutMeNav {
+        height: 410px;
+    }
+
+    .box2 {
+        height: 55px;
+    }
+
+    #about {
+        font-size: 1.3rem;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
  }
 
  @media screen and (max-height: 320px) and (max-width: 568px) {
@@ -825,6 +842,25 @@ ul.a {
 
     #leftSide {
         margin-left: 30px;
+    }
+
+    /*aboutMe.html*/
+    #aboutMeNav {
+        height: 200px;
+        width: 85%;
+    }
+
+    #me {
+        margin-top: 5px;
+    }
+
+    .box2 {
+        height: 55px;
+    }
+
+    p {
+        font-size: 12px;
+        margin: 0 35px 0 35px;
     }
 
  }
