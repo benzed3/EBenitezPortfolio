@@ -563,6 +563,26 @@ ul.a {
         width: 85%;
     }
 
+    /*aboutMe.html*/
+    #aboutMeNav {
+        margin-top: 130px; 
+        width: 85%;
+        height: 520px;
+    }
+
+    #me {
+        margin-top: 15px;
+        width: 70%;
+    }
+
+    .box2 {
+        height: 70px;
+    }
+
+    p {
+        margin: 0 35px 0 35px;
+    }
+
  }
 
  @media screen and (max-height: 412px) and (max-width: 824px) {
@@ -588,6 +608,15 @@ ul.a {
 
     #imgThree {
         margin-top: 25px;
+    }
+
+    /*aboutMe.html*/
+    .box2 {
+        height: 105px;
+    }
+
+    p {
+        font-size: 15px;
     }
 
  }
