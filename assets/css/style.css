@@ -96,7 +96,7 @@ img {
 
 #aboutMeNav {
     margin-top: 40px;
-    background: rgb(252, 240, 240);
+    background: bisque;
     height: 500px;
     box-shadow: 10px 10px;
     border-style: double;
@@ -266,6 +266,10 @@ ul.a {
     }
 
     /*aboutMe.html*/
+    #aboutMeNav {
+        height: 470px;
+    }
+
     .box2 {
         height: 180px;
     }
@@ -305,6 +309,11 @@ ul.a {
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 100px;
+    }
+
+    #me {
+        margin-top: 30px;
+        width: 70%;
     }
 
  }
@@ -350,13 +359,22 @@ ul.a {
     }
 
     /*aboutMe.html*/
+    #aboutMeNav {
+        width: 90%;
+    }
+
+    #me {
+        width: 90%;
+    }
+
     .box2 {
         height: 150px;
     }
 
     p {
-        margin: 0 45px 0 45px;
+        margin: -5px 45px 0 45px;
     }
+
 
  }
 
