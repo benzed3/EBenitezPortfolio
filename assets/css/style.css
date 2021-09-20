@@ -713,6 +713,15 @@ ul.a {
         margin-left: 70px;
     }
 
+    /*aboutMe.html*/
+    #aboutMeNav {
+        margin-top: 45px;
+    }
+
+    #me {
+        width: 80%;
+    }
+
  }
 
  @media screen and (max-height: 376px) and (max-width: 668px) {
