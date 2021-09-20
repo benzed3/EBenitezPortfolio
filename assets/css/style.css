@@ -552,6 +552,11 @@ ul.a {
 
  @media screen and (max-width: 376px) and (max-height: 813px) {
 
+    /*index.html*/
+    #button {
+        left: 10%;
+    }
+
     /*main.html*/
     #blankTop2 {
         height: 120px;
