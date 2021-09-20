@@ -678,6 +678,23 @@ ul.a {
         margin-top: 8px;
     }
 
+    p {
+        font-size: 19px;
+    }
+
+ }
+
+ @media screen and (max-height: 376px) and (max-width: 813px) {
+
+    /*aboutMe.html*/
+    #aboutMeNav {
+        height: 260px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
  }
 
  @media screen and (max-width: 376px) and (max-height: 668px) {
