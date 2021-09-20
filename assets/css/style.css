@@ -740,6 +740,15 @@ ul.a {
         left: 4%;
     }
 
+    /*aboutMe.html*/
+    #aboutMeNav {
+        height: 505px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
  }
 
  @media screen and (max-height: 360px) and (max-width: 640px) {
