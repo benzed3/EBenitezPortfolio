@@ -70,6 +70,15 @@ a:hover {
     margin-top: 25px;
 }
 
+#greerImg {
+    margin-top: 10px;
+}
+
+#bustImg {
+    margin-top: 15px;
+    width: 67%;
+}
+
 h5 {
     background: skyblue;
     text-align: center;
@@ -181,7 +190,7 @@ h2 {
 .center {
     margin: 0;
     position: absolute;
-    top: 90%;
+    top: 85%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
