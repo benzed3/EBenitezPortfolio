@@ -230,6 +230,11 @@ ul.a {
         margin-top: 35px;
     }
 
+    /*works.html*/
+    #worksDiv {
+        margin-top: 85px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 300px;
@@ -250,6 +255,11 @@ ul.a {
     /*index.html*/
     #blankTop {
         height: 375px;
+    }
+
+    /*works.html*/
+    #worksDiv {
+        margin-top: 155px;
     }
 
     /*aboutMe.html*/
@@ -291,6 +301,19 @@ ul.a {
         width: 90%;
     }
 
+    /*works.html*/
+    .works {
+        width: 33%;
+    }
+
+    .middle {
+        height: 255px;
+    }
+
+    .center {
+        width: 60%;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         height: 470px;
@@ -330,6 +353,11 @@ ul.a {
 
     #imgThree {
         width: 90%;
+    }
+
+    /*works.html*/
+    #worksDiv {
+        margin-top: 50px;
     }
 
     /*aboutMe.html*/
