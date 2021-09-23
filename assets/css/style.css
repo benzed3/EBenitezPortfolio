@@ -412,6 +412,19 @@ ul.a {
         margin-top: 15px;
     }
 
+    /*works.html*/
+    #worksDiv {
+        width: 90%;
+    }
+
+    .middle {
+        height: 200px;
+    }
+
+    .center {
+        width: 90%;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         width: 90%;
@@ -459,6 +472,15 @@ ul.a {
 
     .boxes {
         height: 170px;
+    }
+
+    /*works.html*/
+    .middle {
+        height: 190px;
+    }
+
+    .center {
+        width: 90%;
     }
 
     /*aboutMe.html*/
