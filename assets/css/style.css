@@ -53,6 +53,12 @@ a:hover {
 
 /*works page formatting*/
 
+#worksDiv {
+    background: rgb(252, 240, 240);
+    margin-top: 35px;
+    box-shadow: 10px 10px;
+}
+
 .middle {
     height: 300px;
 }
@@ -155,11 +161,6 @@ p {
     border-width: 3px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 20px;
-}
-
-#worksDiv {
-    background: rgb(252, 240, 240);
-    margin-top: 35px;
 }
 
 hr {
