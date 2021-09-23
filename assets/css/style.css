@@ -375,6 +375,11 @@ ul.a {
         margin: -5px 45px 0 45px;
     }
 
+    /*contact.html*/
+    #contactRow2 {
+        margin: 0 10px 0 10px
+    }
+
 
  }
 
@@ -414,6 +419,11 @@ ul.a {
 
     p {
         margin: 0 45px 0 45px;
+    }
+
+    /*contact.html*/
+    #contactRow {
+        height: 120px;
     }
 
  }
@@ -474,6 +484,11 @@ ul.a {
         margin: 0 15px 0 15px;
     }
 
+    /*contact.html*/
+    #contactRow2 {
+        margin: 0 10px 0 10px;
+    }
+
  }
 
  @media screen and (max-height: 415px) and (max-height: 736px) {
@@ -522,6 +537,11 @@ ul.a {
     p {
         font-size: 14px;
         margin: 0 90px 0 90px;
+    }
+
+    /*contact.html*/
+    #contactRow {
+        height: 55px;
     }
 
  }
@@ -583,6 +603,11 @@ ul.a {
 
     p {
         margin: 0 35px 0 35px;
+    }
+
+    /*contact.html*/
+    #contactRow2 {
+        margin: 0 10px 0 10px;
     }
 
  }
@@ -697,6 +722,11 @@ ul.a {
         font-size: 14px;
     }
 
+    /*contact.html*/
+    #contactRow {
+        height: 40px;
+    }
+
  }
 
  @media screen and (max-width: 376px) and (max-height: 668px) {
@@ -752,6 +782,11 @@ ul.a {
         font-size: 18px;
     }
 
+    /*contact.html*/
+    #contactRow {
+        height: 145px;
+    }
+
  }
 
  @media screen and (max-height: 360px) and (max-width: 640px) {
@@ -764,6 +799,11 @@ ul.a {
     /*main.html*/
     #blankTop2 {
         height: 75px;
+    }
+
+    /*contact.html*/
+    #contactRow {
+        height: 30px;
     }
 
  }
