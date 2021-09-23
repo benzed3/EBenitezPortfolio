@@ -560,6 +560,31 @@ ul.a {
         margin: 0 15px 0 15px;
     }
 
+    /*works.html*/
+    .container {
+        width: 90%;
+    }
+
+    .middle {
+        height: 160px;
+    }
+
+    .works {
+        width: 50%;
+    }
+
+    #worksDiv {
+        height: 575px;
+    }
+
+    .center {
+        width: 90%;
+    }
+
+    .middle {
+        height: 325px;
+    }
+
     /*contact.html*/
     #contactRow2 {
         margin: 0 10px 0 10px;
@@ -613,6 +638,19 @@ ul.a {
     p {
         font-size: 14px;
         margin: 0 90px 0 90px;
+    }
+
+    /*works.html*/
+    .middle {
+        height: 160px;
+    }
+
+    #worksDiv {
+        margin-top: 10px;
+    }
+
+    .center {
+        width: 90%;
     }
 
     /*contact.html*/
