@@ -432,6 +432,7 @@ ul.a {
     #button {
         font-size: 12px;
         left: 9%;
+        padding-top: 0;
     }
 
     /*main.html*/
@@ -539,6 +540,7 @@ ul.a {
     #button {
         font-size: 11px;
         left: 12%;
+        padding-top: 0;
     }
 
     /*main.html*/
@@ -738,6 +740,7 @@ ul.a {
     /*index.html*/
     #button {
         left: 4%;
+        padding-top: 0;
     }
 
     /*aboutMe.html*/
