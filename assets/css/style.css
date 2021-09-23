@@ -51,8 +51,10 @@ a:hover {
     height: 250px;
 }
 
+/*works page formatting*/
+
 .middle {
-    height: 250px;
+    height: 300px;
 }
 
 h5 {
@@ -135,6 +137,7 @@ p {
 
 #worksDiv {
     background: rgb(252, 240, 240);
+    margin-top: 35px;
 }
 
 hr {
