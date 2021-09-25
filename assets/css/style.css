@@ -875,6 +875,20 @@ ul.a {
         margin-left: 70px;
     }
 
+    #imgOne {
+        margin-top: 5px;
+        width: 53%;
+    }
+
+    #imgTwo {
+        margin-top: 5px;
+        width: 80%;
+    }
+
+    #imgThree {
+        margin-top: 13px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 45px;
