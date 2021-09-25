@@ -523,7 +523,7 @@ ul.a {
 
     /*main.html*/
     #blankTop2 {
-        height: 115px;
+        height: 100px;
     }
 
     .boxes {
@@ -533,17 +533,17 @@ ul.a {
     }
 
     #imgOne {
-        width: 38%;
+        width: 40%;
     }
 
     #imgTwo {
-        width: 60%;
+        width: 65%;
         margin-top: 5px;
     }
 
     #imgThree {
-        width: 75%;
-        margin-top: 5px;
+        width: 80%;
+        margin-top: 7px;
     }
 
     /*aboutMe.html*/
