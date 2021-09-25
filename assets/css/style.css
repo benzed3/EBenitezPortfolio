@@ -1084,8 +1084,9 @@ ul.a {
     }
 
     .boxes {
-        margin-left: 55px;
+        margin-left: 45px;
         height: 130px;
+        width: 70%;
     }
 
     #imgOne {
