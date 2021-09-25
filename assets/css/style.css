@@ -29,7 +29,7 @@
     padding: 1px 11px 1px 11px;
 }
 
-/*main page css; navbar and links*/
+/*main.html formatting*/
 a:link, a:visited {
     color: gray;
     text-decoration: none;
@@ -43,10 +43,32 @@ a:hover {
     color: rgb(71, 71, 71);
 }
 
-/*main page css; formating*/
-
 #blankTop2 {
     height: 250px;
+}
+
+h5 {
+    background: skyblue;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 8px 0 8px 0;
+    color: white;
+}
+
+.boxes {
+    padding: 0;
+    border-style: double;
+    border-width: 3px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
 }
 
 /*works page formatting*/
@@ -81,30 +103,6 @@ a:hover {
 #bustImg {
     margin-top: 15px;
     width: 67%;
-}
-
-h5 {
-    background: skyblue;
-    text-align: center;
-    margin: 0;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 8px 0 8px 0;
-    color: white;
-}
-
-.boxes {
-    padding: 0;
-    border-style: double;
-    border-width: 3px;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
 }
 
 #imgOne {
