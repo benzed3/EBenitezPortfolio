@@ -47,6 +47,10 @@ a:hover {
     height: 250px;
 }
 
+#centerBox {
+    height: 250px;
+}
+
 h5 {
     background: skyblue;
     text-align: center;
@@ -69,6 +73,21 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+}
+
+#imgOne {
+    width: 50%;
+    margin-top: 7px;
+}
+
+#imgTwo {
+    width: 75%;
+    margin-top: 9px;
+}
+
+#imgThree {
+    width: 85%;
+    margin-top: 17px;
 }
 
 /*works page formatting*/
@@ -103,21 +122,6 @@ img {
 #bustImg {
     margin-top: 15px;
     width: 67%;
-}
-
-#imgOne {
-    width: 50%;
-    margin-top: 7px;
-}
-
-#imgTwo {
-    width: 75%;
-    margin-top: 9px;
-}
-
-#imgThree {
-    width: 75%;
-    margin-top: 26px;
 }
 
 #aboutMeNav {
