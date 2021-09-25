@@ -982,18 +982,18 @@ ul.a {
     }
 
     #imgOne {
-        margin-top: 0;
-        width: 41%;
+        margin-top: 2px;
+        width: 44%;
     }
 
     #imgTwo {
-        margin-top: 0;
-        width: 64%;
+        margin-top: 2px;
+        width: 67%;
     }
 
     #imgThree {
-        margin-top: 2px;
-        width: 75%;
+        margin-top: 4px;
+        width: 80%;
     }
 
     /*aboutMe.html*/
