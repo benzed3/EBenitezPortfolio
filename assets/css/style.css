@@ -398,6 +398,18 @@ ul.a {
         margin-top: 50px;
     }
 
+    #trainBtn {
+        padding: 5px 13px 5px 13px;
+    }
+
+    #trainBtn {
+        padding: 8px 15px 8px 15px
+    }
+
+    #rpsBtn {
+        padding: 7px 11px 7px 11px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 100px;
