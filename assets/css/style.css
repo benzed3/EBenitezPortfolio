@@ -142,6 +142,15 @@ img {
     margin-bottom: 10px;;
 }
 
+#trainBtn {
+    width: 100%;
+}
+
+#triviaBtn {
+    width: 130%;
+    padding: 10px 15px 10px 15px;
+}
+
 #me {
     border-radius: 130px;
     margin-top: 35px;
