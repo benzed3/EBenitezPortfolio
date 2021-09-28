@@ -142,15 +142,6 @@ img {
     margin-bottom: 10px;;
 }
 
-#trainBtn {
-    width: 100%;
-}
-
-#triviaBtn {
-    width: 130%;
-    padding: 10px 15px 10px 15px;
-}
-
 #me {
     border-radius: 130px;
     margin-top: 35px;
@@ -244,6 +235,15 @@ ul.a {
         margin-top: 85px;
     }
 
+    #trainBtn {
+        width: 100%;
+    }
+    
+    #triviaBtn {
+        width: 130%;
+        padding: 10px 15px 10px 15px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 300px;
@@ -269,6 +269,18 @@ ul.a {
     /*works.html*/
     #worksDiv {
         margin-top: 155px;
+    }
+
+    #trainBtn {
+        padding: 10px 15px 10px 15px;
+    }
+
+    #triviaBtn {
+        padding: 10px 15px 10px 15px;
+    }
+
+    #rpsBtn {
+        padding: 10px 15px 10px 15px;
     }
 
     /*aboutMe.html*/
