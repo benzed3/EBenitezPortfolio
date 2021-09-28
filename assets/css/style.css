@@ -475,6 +475,28 @@ ul.a {
         width: 90%;
     }
 
+    #trainBtn {
+        padding: 8px;
+        font-size: 13px;
+    }
+
+    #triviaBtn {
+        padding: 5px 0 5px 0;
+        font-size: 13px;
+    }
+
+    #rpsBtn {
+        font-size: 13px;
+    }
+
+    #geerBtn {
+        font-size: 13px;
+    }
+
+    #bustBtn {
+        font-size: 13px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         width: 90%;
