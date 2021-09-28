@@ -835,6 +835,10 @@ ul.a {
         margin: 0 35px 0 35px;
     }
 
+    .container {
+        width: 85%;
+    }
+
     /*contact.html*/
     #contactRow2 {
         margin: 0 10px 0 10px;
