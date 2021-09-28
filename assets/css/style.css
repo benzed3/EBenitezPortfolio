@@ -555,6 +555,26 @@ ul.a {
         width: 90%;
     }
 
+    #trainBtn {
+        font-size: 13px;
+    }
+
+    #triviaBtn {
+        font-size: 13px;
+    }
+
+    #rpsBtn {
+        font-size: 13px;
+    }
+
+    #bustBtn {
+        font-size: 13px;
+    }
+
+    #geerBtn {
+        font-size: 13px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         margin-top: 15px;
