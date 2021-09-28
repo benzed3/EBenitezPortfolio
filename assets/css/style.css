@@ -335,6 +335,23 @@ ul.a {
         width: 60%;
     }
 
+    #trainBtn {
+        padding: 5px 10px 5px 10px;
+    }
+
+    #triviaBtn {
+        width: 100%;
+        padding: 5px 10px 5px 10px;
+    }
+
+    #rpsBtn {
+        padding: 5px 10px 5px 10px;
+    }
+
+    #greerImg {
+        margin-bottom: 50px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         height: 470px;
