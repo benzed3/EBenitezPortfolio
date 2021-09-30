@@ -914,6 +914,49 @@ ul.a {
         width: 33%;
     }
 
+    .center {
+        width: 50%;
+    }
+
+    #trainBtn {
+        font-size: 10px;
+    }
+
+    #triviaBtn {
+        font-size: 10px;
+    }
+
+    #rpsBtn {
+        font-size: 10px;
+    }
+
+    #geerBtn {
+        font-size: 10px;
+    }
+
+    #bustBtn {
+        font-size: 10px;
+    }
+
+    #trainImg {
+        margin-top: 20px;
+        WIDTH: 65%;
+    }
+
+    #triviaImg {
+        margin-top: 20px;
+        width: 65%;
+    }
+
+    #rpsImg {
+        width: 55%;
+        margin-top: 17px;
+    }
+
+    #greerImg {
+        width: 55%;
+    }
+
  }
 
  @media screen and (max-width: 414px) and (max-height: 732px) {
