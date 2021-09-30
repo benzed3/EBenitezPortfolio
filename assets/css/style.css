@@ -864,6 +864,10 @@ ul.a {
         font-size: 11px;
     }
 
+    .middle {
+        height: 175px;
+    }
+
     /*contact.html*/
     #contactRow2 {
         margin: 0 10px 0 10px;
