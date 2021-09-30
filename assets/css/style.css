@@ -987,6 +987,19 @@ ul.a {
         margin-top: 90px;
     }
 
+    /*works.html*/
+    .middle {
+        height: 305px;
+    }
+
+    #bustImg {
+        margin-top: 40px;
+    }
+
+    #greerImg {
+        margin-top: 35px;
+    }
+
  }
 
  @media screen and (max-height: 412px) and (max-width: 732px) {
