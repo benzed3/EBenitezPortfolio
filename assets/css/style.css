@@ -843,6 +843,27 @@ ul.a {
         width: 85%;
     }
 
+    /*works.html*/
+    #trainBtn {
+        font-size: 11px;
+    }
+
+    #triviaBtn {
+        font-size: 11px;
+    }
+
+    #rpsBtn {
+        font-size: 11px;
+    }
+
+    #geerBtn {
+        font-size: 11px;
+    }
+
+    #bustBtn {
+        font-size: 11px;
+    }
+
     /*contact.html*/
     #contactRow2 {
         margin: 0 10px 0 10px;
