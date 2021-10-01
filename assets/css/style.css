@@ -1143,6 +1143,16 @@ ul.a {
         width: 80%;
     }
 
+    /*works*/
+    #worksDiv {
+        height: 535px;
+        margin-top: 30px;
+    }
+
+    .middle {
+        height: 300px;
+    }
+
  }
 
  @media screen and (max-height: 376px) and (max-width: 668px) {
