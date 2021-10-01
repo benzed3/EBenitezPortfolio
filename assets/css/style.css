@@ -1162,6 +1162,27 @@ ul.a {
         height: 170px;
     }
 
+    /*works.html*/
+    #trainBtn {
+        font-size: 9px;
+    }
+
+    #triviaBtn {
+        font-size: 9px;
+    }
+
+    #rpsBtn {
+        font-size: 9px;
+    }
+
+    #greerBtn {
+        font-size: 9px;
+    }
+
+    #bustBtn {
+        font-size: 9px;
+    }
+
  }
 
  @media screen and (max-width: 360px) and (max-height: 640px) {
