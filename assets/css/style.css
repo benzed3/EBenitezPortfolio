@@ -968,7 +968,7 @@ ul.a {
 
     /*index.html*/
     #button {
-        left: 5%;
+        left: 13%;
     }
 
     /*main.html*/
@@ -1118,7 +1118,11 @@ ul.a {
 
     /*index.html*/
     h1#welcome {
-        font-size: 1.9rem;
+        font-size: 1.8rem;
+    }
+
+    .bDiv {
+        left: -5%;
     }
 
     #button {
