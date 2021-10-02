@@ -1028,6 +1028,15 @@ ul.a {
  @media screen and (max-width: 376px) and (max-height: 813px) {
 
     /*index.html*/
+    h1#welcome {
+        font-size: 1.8rem;
+    }
+
+    .bDiv {
+        width: 38%;
+        left: -8%;
+    }
+
     #button {
         left: 10%;
     }
