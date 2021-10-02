@@ -787,6 +787,11 @@ ul.a {
         font-size: 2rem;
     }
 
+    .bDiv {
+        width: 35%;
+        right: 4%;
+    }
+
     #button {
         font-size: 11px;
         left: 12%;
