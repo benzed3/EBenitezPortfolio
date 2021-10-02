@@ -1207,11 +1207,12 @@ ul.a {
 
     /*index.html*/
     h1#welcome {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
     }
 
     .bDiv {
         width: 35%;
+        left: -3%;
     }
 
     #button {
@@ -1381,7 +1382,7 @@ ul.a {
 
     /*index.html*/
     h1#welcome {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
     }
 
     #button {
