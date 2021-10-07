@@ -1225,8 +1225,9 @@ ul.a {
     }
 
     #button {
-        left: -4%;
+        left: 5%;
         padding-top: 0;
+        padding-bottom: 1px;
     }
 
     /*aboutMe.html*/
