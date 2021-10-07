@@ -799,7 +799,7 @@ ul.a {
     #button {
         font-size: 11px;
         left: 12%;
-        padding-top: 0;
+        padding: 1px 8px 2px 8px;
     }
 
     /*main.html*/
