@@ -603,6 +603,10 @@ ul.a {
         height: 250px;
     }
 
+    #banner {
+        margin-bottom: 8px;
+    }
+
     h1#welcome {
         font-size: 2rem;
     }
