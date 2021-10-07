@@ -1134,7 +1134,8 @@ ul.a {
     }
 
     #button {
-        left: 0%;
+        left: 4%;
+        padding-bottom: 3px;
     }
 
     /*main.html*/
