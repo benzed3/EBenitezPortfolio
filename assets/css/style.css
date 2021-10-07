@@ -1396,8 +1396,8 @@ ul.a {
     }
 
     #button {
-        font-size: 7px;
-        left: 3px;
+        font-size: 8px;
+        left: 6px;
     }
 
     /*main.html*/
@@ -1453,7 +1453,7 @@ ul.a {
 
     /*index.html*/
     #blankTop {
-        height: 110px;
+        height: 105px;
     }
 
     #button {
