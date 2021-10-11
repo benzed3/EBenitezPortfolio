@@ -681,6 +681,27 @@ ul.a {
         height: 575px;
     }
 
+    #trainBtn {
+        padding: 8px 10px 8px 10px;
+    }
+
+    #trainImg {
+        margin-top: 15px;
+    }
+
+    #triviaImg {
+        margin-top: 15px;
+    }
+
+    #greerImg {
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+
+    #bustImg {
+        margin-top: 25px;
+    }
+
     .center {
         width: 90%;
     }
