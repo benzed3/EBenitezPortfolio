@@ -1077,6 +1077,11 @@ ul.a {
         margin-bottom: 5px;
     }
 
+    /*works.html*/
+    #trainBtn {
+        padding: 8px;
+    }
+
  }
 
  @media screen and (max-width: 376px) and (max-height: 813px) {
