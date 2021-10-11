@@ -119,6 +119,10 @@ img {
     font-family: 'Do Hyeon', sans-serif;
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
     margin: 0;
     background: white;
@@ -131,7 +135,6 @@ p {
 }
 
 /*works page formatting*/
-
 #worksDiv {
     background: rgb(252, 240, 240);
     margin-top: 35px;
@@ -164,17 +167,11 @@ p {
     width: 67%;
 }
 
-hr {
-    background: white;
-}
-
-h2 {
-    text-align: center;
-}
-
 .works {
     padding: 0;
 }
+
+/*contact page formatting*/
 
 #contactRow {
     height: 200px;
@@ -187,6 +184,10 @@ h2 {
     border-style: solid;
     border-width: 3px;
     border-color: thistle;
+}
+
+hr {
+    background: white;
 }
 
 .center {
