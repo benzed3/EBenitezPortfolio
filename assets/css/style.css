@@ -796,6 +796,8 @@ ul.a {
 
     #geerBtn {
         font-size: 13px;
+        padding: 5px 6px 5px 6px;
+        margin-top: 15px;
     }
 
     #bustImg {
@@ -804,6 +806,8 @@ ul.a {
 
     #bustBtn {
         font-size: 13px;
+        margin-top: 15px;
+        padding: 4px;
     }
 
     /*contact.html*/
