@@ -784,6 +784,8 @@ ul.a {
 
     #triviaBtn {
         font-size: 13px;
+        width: 100%;
+        padding: 5px;
     }
 
     #rpsBtn {
@@ -792,6 +794,10 @@ ul.a {
 
     #geerBtn {
         font-size: 13px;
+    }
+
+    #bustImg {
+        width: 50%;
     }
 
     #bustBtn {
