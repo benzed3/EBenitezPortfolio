@@ -1126,6 +1126,15 @@ ul.a {
         font-size: 19px;
     }
 
+    /*works.html*/
+    .middle {
+        height: 155px;
+    }
+
+    #trainBtn {
+        padding: 5px;
+    }
+
  }
 
  @media screen and (max-height: 376px) and (max-width: 813px) {
