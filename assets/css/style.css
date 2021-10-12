@@ -1448,7 +1448,27 @@ ul.a {
         margin: 0 35px 0 35px;
     }
 
-    /*contactRow2*/
+    /*works.html*/
+    .middle {
+        height: 110px;
+    }
+
+    #worksDiv {
+        height: 225px;
+        width: 85%;
+        margin-top: 15px;
+    }
+
+    #geerBtn {
+        padding: 5px 5px 5px 5px;
+        margin-top: -12px;
+    }
+
+    #bustBtn {
+        margin-top: -4px;
+    }
+
+    /*contact.html*/
     #contactRow {
         height: 10px;
     }
