@@ -1394,6 +1394,14 @@ ul.a {
         height: 270px;
     }
 
+    #greerImg {
+        margin-top: 15px;
+    }
+
+    #bustImg {
+        margin-top: 20px;
+    }
+
     /*contact.html*/
     #contactRow {
         height: 80px;
