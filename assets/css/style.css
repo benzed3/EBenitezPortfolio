@@ -1402,6 +1402,10 @@ ul.a {
         margin-top: 20px;
     }
 
+    .works {
+        height: 135px;
+    }
+
     /*contact.html*/
     #contactRow {
         height: 80px;
