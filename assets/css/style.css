@@ -1579,6 +1579,11 @@ ul.a {
         font-size: 11px;
     }
 
+    /*works.html*/
+    #worksDiv {
+        height: 190px;
+    }
+
     /*contact.html*/
     #contactRow {
         height: 5px;
