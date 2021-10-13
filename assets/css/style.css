@@ -1580,8 +1580,47 @@ ul.a {
     }
 
     /*works.html*/
+    .middle {
+        height: 55px;
+    }
+
     #worksDiv {
         height: 190px;
+    }
+
+    #trainImg {
+        width: 40%;
+    }
+
+    #trainBtn {
+        padding: 1px;
+    }
+
+    #triviaImg {
+        width: 40%;
+    }
+
+    #triviaBtn {
+        padding: 1px;
+    }
+
+    #rpsBtn {
+        padding: 2px;
+    }
+
+    #rpsImg {
+        width: 45%;
+    }
+
+    #greerImg {
+        padding-top: 10px;
+        padding-bottom: 0;
+        width: 45%;
+    }
+
+    #bustImg {
+        width: 45%;
+        margin-top: 25px;
     }
 
     /*contact.html*/
