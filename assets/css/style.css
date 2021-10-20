@@ -972,8 +972,16 @@ ul.a {
         height: 175px;
     }
 
+    #imgOne {
+        margin-top: 0;
+    }
+
+    #imgTwo {
+        margin-top: 3px;
+    }
+
     #imgThree {
-        margin-top: 25px;
+        margin-top: 7px;
     }
 
     /*aboutMe.html*/
