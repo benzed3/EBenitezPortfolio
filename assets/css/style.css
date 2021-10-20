@@ -555,6 +555,11 @@ ul.a {
         width: 53%;
     }
 
+    #imgTwo {
+        width: 75%;
+        margin-top: 9px;
+    }
+
     /*works.html*/
     .middle {
         height: 190px;
