@@ -550,6 +550,11 @@ ul.a {
         height: 150px;
     }
 
+    #imgOne {
+        margin-top: 6px;
+        width: 53%;
+    }
+
     /*works.html*/
     .middle {
         height: 190px;
