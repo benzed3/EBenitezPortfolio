@@ -1371,6 +1371,21 @@ ul.a {
         padding-bottom: 1px;
     }
 
+    /*main.html*/
+    #imgOne {
+        margin-top: 1px;
+        width: 42%;
+    }
+
+    #imgTwo {
+        margin-top: 2px;
+        width: 63%;
+    }
+
+    #imgThree {
+        margin-top: 5px;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         height: 505px;
