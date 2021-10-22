@@ -1312,7 +1312,22 @@ ul.a {
 
     /*main.html*/
     .boxes {
-        height: 170px;
+        height: 140px;
+    }
+
+    #imgOne {
+        margin-top: 1px;
+        width: 52%;
+    }
+
+    #imgTwo {
+        margin-top: 2px;
+        width: 78%;
+    }
+
+    #imgThree {
+        margin-top: 6px;
+        width: 90%;
     }
 
     /*works.html*/
