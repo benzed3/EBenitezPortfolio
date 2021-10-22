@@ -1051,6 +1051,10 @@ ul.a {
     }
 
     /*main.html*/
+    .boxes {
+        height: 160px;
+    }
+
     #imgOne {
         margin-top: 3px;
         width: 50%;
