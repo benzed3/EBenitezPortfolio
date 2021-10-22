@@ -1167,20 +1167,26 @@ ul.a {
 
     /*main.html*/
     #blankTop2 {
-        height: 120px;
+        height: 140px;
+    }
+
+    .boxes {
+        height: 150px;
     }
 
     #imgOne {
-        margin-top: 5px;
+        margin-top: 2px;
+        width: 40%;
     }
 
     #imgTwo {
-        margin-top: 3px;
-        width: 75%;
+        margin-top: 2px;
+        width: 60%;
     }
 
     #imgThree {
-        margin-top: 8px;
+        margin-top: 2px;
+        width: 75%;
     }
 
     p {
