@@ -1526,6 +1526,21 @@ ul.a {
         margin-left: 30px;
     }
 
+    #imgOne {
+        margin-top: 1px;
+        width: 49%;
+    }
+
+    #imgTwo {
+        margin-top: 1px;
+        width: 75%;
+    }
+
+    #imgThree {
+        margin-top: 5px;
+        width: 85%;
+    }
+
     /*aboutMe.html*/
     #aboutMeNav {
         height: 200px;
