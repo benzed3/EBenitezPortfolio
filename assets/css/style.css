@@ -1615,17 +1615,18 @@ ul.a {
     }
 
     #imgOne {
-        margin-top: 0;
-        width: 47%;
+        margin-top: 2px;
+        width: 40%;
     }
 
     #imgTwo {
-        margin-top: 0;
-        width: 73%;
+        margin-top: 1px;
+        width: 62%;
     }
 
     #imgThree {
         margin-top: 2px;
+        width: 75%;
     }
 
     /*aboutMe.html*/
@@ -1665,7 +1666,7 @@ ul.a {
 
     /*main.html*/
     #blankTop2 {
-        height: 25px;
+        height: 45px;
     }
 
     /*aboutMe.html*/
