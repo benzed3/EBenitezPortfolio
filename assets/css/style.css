@@ -1447,22 +1447,22 @@ ul.a {
 
     .boxes {
         margin-left: 30px;
-        height: 130px;
+        height: 125px;
     }
 
     #imgOne {
         margin-top: 2px;
-        width: 44%;
+        width: 35%;
     }
 
     #imgTwo {
-        margin-top: 2px;
-        width: 67%;
+        margin-top: 1px;
+        width: 54%;
     }
 
     #imgThree {
-        margin-top: 4px;
-        width: 80%;
+        margin-top: 1px;
+        width: 68%;
     }
 
     /*aboutMe.html*/
