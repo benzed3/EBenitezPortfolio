@@ -1,43 +1,19 @@
 /* index.html formatting*/
-#blankTop {
-    height: 250px;
-}
-
-#welcome {
-    text-align: center;
-    text-shadow: 2px 2px gray;
-    font-family: 'Anton', sans-serif;
-}
-
-#banner {
-    margin-bottom: 10px;
-}
-
-.bDiv {
-    width: 33%;
-}
-
-#button {
-    background: none;
-    color: gray;
-    border: 1.5px solid;
-    border-color: gray;
-    border-radius: 15px;
-    position: absolute;
-    left: 30%;
-    box-shadow: 5px 5px 8px #888888;
-    padding: 1px 11px 1px 11px;
+body {
+    background: whitesmoke;
 }
 
 /*main.html formatting*/
-a:link, a:visited {
+a:link,
+a:visited {
     color: gray;
     text-decoration: none;
 }
 
-a:link:active, a:visited:active {
+a:link:active,
+a:visited:active {
     color: darkgray;
-  }
+}
 
 a:hover {
     color: rgb(71, 71, 71);
@@ -101,7 +77,8 @@ img {
 }
 
 #rowOne {
-    margin-bottom: 10px;;
+    margin-bottom: 10px;
+    ;
 }
 
 .box2 {
@@ -199,12 +176,12 @@ hr {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-  }
+}
 
 ul.a {
     list-style-type: circle;
     margin-left: 25px;
-  }
+}
 
 /* Media Queries */
 @media screen and (max-width: 1024px) and (max-height: 1367px) {
@@ -242,7 +219,7 @@ ul.a {
     #trainBtn {
         width: 100%;
     }
-    
+
     #triviaBtn {
         width: 130%;
         padding: 10px 15px 10px 15px;
@@ -263,7 +240,7 @@ ul.a {
 
 }
 
- @media screen and (max-height: 1024px) and (max-width: 1367px) {
+@media screen and (max-height: 1024px) and (max-width: 1367px) {
 
     /*index.html*/
     #blankTop {
@@ -291,10 +268,10 @@ ul.a {
     #aboutMeNav {
         margin-top: 200px;
     }
-    
- }
 
- @media screen and (max-width: 768px) and (max-height: 1024px) {
+}
+
+@media screen and (max-width: 768px) and (max-height: 1024px) {
 
     /*index.html*/
     #button {
@@ -369,9 +346,9 @@ ul.a {
         margin: 0 100px 0 100px;
     }
 
- }
+}
 
- @media screen and (max-height: 768px) and (max-width: 1024px) {
+@media screen and (max-height: 768px) and (max-width: 1024px) {
 
     /*index.html*/
     #blankTop {
@@ -424,9 +401,9 @@ ul.a {
         width: 70%;
     }
 
- }
+}
 
- @media screen and (max-width: 540px) and (max-height: 720px) {
+@media screen and (max-width: 540px) and (max-height: 720px) {
 
     /*index.html*/
     #blankTop {
@@ -524,9 +501,9 @@ ul.a {
     }
 
 
- }
+}
 
- @media screen and (max-height: 540px) and (max-width: 720px) {
+@media screen and (max-height: 540px) and (max-width: 720px) {
 
     /*index.html*/
     #blankTop {
@@ -613,9 +590,9 @@ ul.a {
         height: 120px;
     }
 
- }
+}
 
- @media screen and (max-width: 415px) and (max-height: 736px) {
+@media screen and (max-width: 415px) and (max-height: 736px) {
 
     /*index.html*/
     #blankTop {
@@ -730,9 +707,9 @@ ul.a {
         margin: 0 10px 0 10px;
     }
 
- }
+}
 
- @media screen and (max-height: 415px) and (max-height: 736px) {
+@media screen and (max-height: 415px) and (max-height: 736px) {
 
     /*index.html*/
     #blankTop {
@@ -845,9 +822,9 @@ ul.a {
         height: 55px;
     }
 
- }
+}
 
- @media screen and (max-width: 412px) and (max-height:824px) {
+@media screen and (max-width: 412px) and (max-height:824px) {
 
     /*index.html*/
     #blankTop {
@@ -893,7 +870,7 @@ ul.a {
 
     /*aboutMe.html*/
     #aboutMeNav {
-        margin-top: 130px; 
+        margin-top: 130px;
         width: 87%;
         height: 520px;
     }
@@ -949,9 +926,9 @@ ul.a {
         margin: 0 10px 0 10px;
     }
 
- }
+}
 
- @media screen and (max-height: 412px) and (max-width: 824px) {
+@media screen and (max-height: 412px) and (max-width: 824px) {
 
     /*index.html*/
     #blankTop {
@@ -1041,9 +1018,9 @@ ul.a {
         width: 55%;
     }
 
- }
+}
 
- @media screen and (max-width: 412px) and (max-height: 732px) {
+@media screen and (max-width: 412px) and (max-height: 732px) {
 
     /*index.html*/
     #button {
@@ -1096,9 +1073,9 @@ ul.a {
         width: 100%;
     }
 
- }
+}
 
- @media screen and (max-height: 412px) and (max-width: 732px) {
+@media screen and (max-height: 412px) and (max-width: 732px) {
 
     /*index.html*/
     #button {
@@ -1143,9 +1120,9 @@ ul.a {
         padding: 8px;
     }
 
- }
+}
 
- @media screen and (max-width: 376px) and (max-height: 813px) {
+@media screen and (max-width: 376px) and (max-height: 813px) {
 
     /*index.html*/
     #banner {
@@ -1202,9 +1179,9 @@ ul.a {
         padding: 5px;
     }
 
- }
+}
 
- @media screen and (max-height: 376px) and (max-width: 813px) {
+@media screen and (max-height: 376px) and (max-width: 813px) {
 
     /*aboutMe.html*/
     #aboutMeNav {
@@ -1246,9 +1223,9 @@ ul.a {
         width: 50%;
     }
 
- }
+}
 
- @media screen and (max-width: 376px) and (max-height: 668px) {
+@media screen and (max-width: 376px) and (max-height: 668px) {
 
     /*index.html*/
     h1#welcome {
@@ -1306,9 +1283,9 @@ ul.a {
         height: 300px;
     }
 
- }
+}
 
- @media screen and (max-height: 376px) and (max-width: 668px) {
+@media screen and (max-height: 376px) and (max-width: 668px) {
 
     /*main.html*/
     .boxes {
@@ -1351,9 +1328,9 @@ ul.a {
         font-size: 9px;
     }
 
- }
+}
 
- @media screen and (max-width: 360px) and (max-height: 640px) {
+@media screen and (max-width: 360px) and (max-height: 640px) {
 
     /*index.html*/
     h1#welcome {
@@ -1400,9 +1377,9 @@ ul.a {
         height: 145px;
     }
 
- }
+}
 
- @media screen and (max-height: 360px) and (max-width: 640px) {
+@media screen and (max-height: 360px) and (max-width: 640px) {
 
     /*index.html*/
     #blankTop {
@@ -1419,9 +1396,9 @@ ul.a {
         height: 30px;
     }
 
- }
+}
 
- @media screen and (max-width: 320px) and (max-height: 568px) {
+@media screen and (max-width: 320px) and (max-height: 568px) {
 
     /*index.html*/
     #blankTop {
@@ -1509,9 +1486,9 @@ ul.a {
         height: 80px;
     }
 
- }
+}
 
- @media screen and (max-height: 320px) and (max-width: 568px) {
+@media screen and (max-height: 320px) and (max-width: 568px) {
 
     /*main.html*/
     #blankTop2 {
@@ -1590,9 +1567,9 @@ ul.a {
         margin: 0 10px 0 10px;
     }
 
- }
+}
 
- @media screen and (max-width: 281px) and (max-height: 654px) {
+@media screen and (max-width: 281px) and (max-height: 654px) {
 
     /*index.html*/
     h1#welcome {
@@ -1653,9 +1630,9 @@ ul.a {
         height: 100px;
     }
 
- }
+}
 
- @media screen and (max-height: 281px) and (max-width: 654px) {
+@media screen and (max-height: 281px) and (max-width: 654px) {
 
     /*index.html*/
     #blankTop {
@@ -1755,4 +1732,4 @@ ul.a {
         height: 210px;
     }
 
- }
+}
