@@ -100,17 +100,6 @@ h2 {
     text-align: center;
 }
 
-p {
-    margin: 0;
-    background: white;
-    margin: 5px 100px 0px 100px;
-    padding: 1px 10px 1px 10px;
-    border-style: double;
-    border-width: 3px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 20px;
-}
-
 /*works page formatting*/
 #worksDiv {
     background: rgb(252, 240, 240);
