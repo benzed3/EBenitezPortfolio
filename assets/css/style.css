@@ -19,3 +19,14 @@ h4 {
     clear: both;
     margin-top: 13%;
 }
+
+#aboutMeInfo {
+    background: white;
+    margin: 0;
+    border-style: dashed;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+    padding: 20px;
+
+}
