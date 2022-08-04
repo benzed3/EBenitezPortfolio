@@ -84,4 +84,8 @@
         background-size: 1024px 768px;
     }
 
+    .container {
+        margin-top: 15%;
+    }
+
 }
