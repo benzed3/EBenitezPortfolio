@@ -2,8 +2,6 @@
 @media screen and (max-width: 912px) and (max-height: 1368px) {
 
     body {
-        background-image: url("../images/background.jpg");
-        background-repeat: no-repeat;
         background-size: 912px 1368px;
     }
 
@@ -13,6 +11,14 @@
 
     h4 {
         width: 19%;
+    }
+
+}
+
+@media screen and (max-height: 912px) and (max-width: 1368px) {
+
+    body {
+        background-size: 1368px 912px;
     }
 
 }
