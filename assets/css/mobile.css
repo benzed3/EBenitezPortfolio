@@ -64,4 +64,8 @@
         background-size: 768px 1024px;
     }
 
+    h4 {
+        width: 20%;
+    }
+
 }
