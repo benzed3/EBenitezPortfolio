@@ -3,7 +3,7 @@ body {
     background: whitesmoke;
     background-image: url("../images/background.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1536px 755px;
 }
 
 #navbar {
