@@ -64,6 +64,10 @@
         background-size: 768px 1024px;
     }
 
+    #navbar {
+        width: 100%;
+    }
+
     h4 {
         width: 20%;
     }
