@@ -21,6 +21,10 @@
         background-size: 1368px 912px;
     }
 
+    .container {
+        margin-top: 18%;
+    }
+
 }
 
 /*styling for 820x1180 screens*/
