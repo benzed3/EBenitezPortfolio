@@ -47,3 +47,12 @@
     }
 
 }
+
+/*styling for 800x1280 screens*/
+@media screen and (max-height: 800px) and (max-width: 1280px) {
+
+    body {
+        background-size: 1280px 800px;
+    }
+
+}
