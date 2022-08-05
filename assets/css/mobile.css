@@ -127,6 +127,10 @@
         background-size: 720px 540px;
     }
 
+    h4 {
+        width: 20%;
+    }
+
     .container {
         margin-top: 5%;
     }
