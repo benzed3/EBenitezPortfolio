@@ -144,6 +144,11 @@
         background-size: 414px 896px;
     }
 
+    h4 {
+        width: 25%;
+        font-size: 25px;
+    }
+
     .container {
         margin-top: 20%;
     }
