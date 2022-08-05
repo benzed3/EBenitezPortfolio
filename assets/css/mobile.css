@@ -120,3 +120,11 @@
     }
 
 }
+
+@media screen and (max-height: 540px) and (max-width: 720px) {
+
+    body {
+        background-size: 720px 540px;
+    }
+
+}
