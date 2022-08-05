@@ -161,4 +161,12 @@
         background-size: 896px 414px;
     }
 
+    .container {
+        margin-top: 6%;
+    }
+
+    #aboutMeInfo {
+        font-size: 15px;
+    }
+
 }
