@@ -144,4 +144,8 @@
         background-size: 414px 896px;
     }
 
+    .container {
+        margin-top: 20%;
+    }
+
 }
