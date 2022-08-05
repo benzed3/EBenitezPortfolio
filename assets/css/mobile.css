@@ -208,3 +208,12 @@
     }
 
 }
+
+/*styling 393x851*/
+@media screen and (max-width: 394px) and (max-height: 852px) {
+
+    body {
+        background-size: 393px 851px;
+    }
+
+}
