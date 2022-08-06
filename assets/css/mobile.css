@@ -326,4 +326,13 @@
         background-size: 280px 653px;
     }
 
+    h4 {
+        width: 26%;
+        font-size: 18px;
+    }
+
+    #aboutMeInfo {
+        font-size: 13px;
+    }
+
 }
