@@ -284,3 +284,11 @@
     }
 
 }
+
+@media screen and (max-height: 376px) and (max-width: 668px) {
+
+    body {
+        background-size: 667px 375px;
+    }
+
+}
