@@ -13,6 +13,17 @@ body {
     font-family: 'Alumni Sans Inline One', cursive;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Alumni Sans Inline One', cursive;
+}
+
+a:hover {
+    color: gray;
+    font-family: 'Alumni Sans Inline One', cursive;
+}
+
 /*Formatting for worksPage.html*/
 h4 {
     margin: 0;
