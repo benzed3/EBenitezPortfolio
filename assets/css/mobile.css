@@ -343,6 +343,10 @@
         background-size: 653px 280px;
     }
 
+    .container {
+        margin-top: 0;
+    }
+
     #aboutMeInfo {
         font-size: 14px;
     }
