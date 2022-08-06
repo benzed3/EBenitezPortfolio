@@ -343,6 +343,11 @@
         background-size: 653px 280px;
     }
 
+    h4 {
+        font-size: 22px;
+        width: 18%;
+    }
+
     .container {
         margin-top: 0;
     }
