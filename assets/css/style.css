@@ -1,4 +1,4 @@
-/* index.html formatting*/
+/*Basic formatting for all pages*/
 body {
     background: whitesmoke;
     background-image: url("../images/background.jpg");
@@ -13,6 +13,7 @@ body {
     font-family: 'Alumni Sans Inline One', cursive;
 }
 
+/*Formatting for worksPage.html*/
 h4 {
     margin: 0;
     width: 12%;
