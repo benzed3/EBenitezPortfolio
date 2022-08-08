@@ -88,6 +88,12 @@ h4 {
     height: 140px;
 }
 
+#bustImg {
+    margin-left: 70px;
+    width: 300px;
+    height: 140px;
+}
+
 /*Formatting for contact.html*/
 .three {
     clear: both;
