@@ -24,7 +24,7 @@ a:hover {
     font-family: 'Alumni Sans Inline One', cursive;
 }
 
-/*Formatting for worksPage.html*/
+/*Formatting for index.html*/
 h4 {
     margin: 0;
     width: 12%;
@@ -49,4 +49,24 @@ h4 {
     font-family: 'Mukta', sans-serif;
     font-size: 18px;
     box-shadow: 10px 10px;
+}
+
+/*formatting for worksPage.html*/
+.two {
+    clear: both;
+    margin-top: 5%;
+}
+
+.worksRow {
+    background: white;
+    margin: 0;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 18px;
+    box-shadow: 10px 10px;
+    height: 150px;
 }
