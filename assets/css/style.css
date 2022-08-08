@@ -57,13 +57,13 @@ h4 {
 }
 
 .worksRow {
-    background: white;
+    background: whitesmoke;
     margin: 0;
     border-style: double;
     border-color: black;
     border-width: 5px;
     border-radius: 10px;
-    padding: 20px;
+    padding: 0;
     font-family: 'Mukta', sans-serif;
     font-size: 18px;
     box-shadow: 10px 10px;
@@ -71,10 +71,9 @@ h4 {
 }
 
 #trainImg {
-    background: whitesmoke;
-    background-image: url("../images/train.jpg");
-    background-repeat: no-repeat;
-    background-size: 439px 150px;
+    margin-left: 70px;
+    width: 300px;
+    height: 140px;
 }
 
 /*Formatting for contact.html*/
