@@ -70,6 +70,13 @@ h4 {
     height: 150px;
 }
 
+#trainImg {
+    background: whitesmoke;
+    background-image: url("../images/train.jpg");
+    background-repeat: no-repeat;
+    background-size: 439px 150px;
+}
+
 /*Formatting for contact.html*/
 .three {
     clear: both;
