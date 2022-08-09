@@ -772,6 +772,30 @@
         margin-top: 10%;
     }
 
+    #trainImg {
+        margin-left: 9.5px;
+        width: 125px;
+        height: 90px;
+    }
+
+    #triviaImg {
+        margin-left: 9.5px;
+        width: 125px;
+        height: 90px;
+    }
+
+    #rpsImg {
+        margin-left: 9.5px;
+        width: 125px;
+        height: 90px;
+    }
+
+    #bustImg {
+        margin-left: 9.5px;
+        width: 125px;
+        height: 90px;
+    }
+
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -792,5 +816,7 @@
     #aboutMeInfo {
         font-size: 14px;
     }
+
+    /*Formatting for worksPage.html*/
 
 }
