@@ -452,6 +452,19 @@
         font-size: 15px;
     }
 
+    /*Formatting for worksPage.html*/
+    .container {
+        margin-top: 3%;
+    }
+
+    .col-lg-4 {
+        width: 33%;
+    }
+
+    .worksRow {
+        height: 90px;
+    }
+
 }
 
 /*styling 393x851*/
