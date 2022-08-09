@@ -507,6 +507,10 @@
     }
 
     /*Formatting for worksPage.html*/
+    .two {
+        margin-top: 10%;
+    }
+
     #trainImg {
         margin-left: 19.5125px;
         width: 195px;
