@@ -126,6 +126,7 @@
 /*styling for 768x1024 screens*/
 @media screen and (max-width: 768px) and (max-height: 1024px) {
 
+    /*Basic formatting*/
     body {
         background-size: 768px 1024px;
     }
@@ -138,8 +139,14 @@
         width: 20%;
     }
 
+    /*Formatting for index.html*/
     #aboutMeInfo {
         margin: 0 20px 0 20px;
+    }
+
+    /*Formatting for worksPage.html*/
+    .two {
+        margin-top: 10%;
     }
 
 }
