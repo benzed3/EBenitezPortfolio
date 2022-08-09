@@ -506,6 +506,31 @@
         font-size: 17px;
     }
 
+    /*Formatting for worksPage.html*/
+    #trainImg {
+        margin-left: 19.5125px;
+        width: 195px;
+        height: 115px;
+    }
+
+    #triviaImg {
+        margin-left: 19.5125px;
+        width: 195px;
+        height: 115px;
+    }
+
+    #rpsImg {
+        margin-left: 19.5125px;
+        width: 195px;
+        height: 115px;
+    }
+
+    #bustImg {
+        margin-left: 19.5125px;
+        width: 195px;
+        height: 115px;
+    }
+
 }
 
 @media screen and (max-height: 394px) and (max-width: 852px) {
