@@ -599,6 +599,11 @@
         font-size: 14px;
     }
 
+    /*Formatting for worksPage.html*/
+    .worksRow {
+        height: 100px;
+    }
+
 }
 
 @media screen and (max-height: 376px) and (max-width: 668px) {
