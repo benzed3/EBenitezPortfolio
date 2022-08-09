@@ -604,6 +604,30 @@
         height: 100px;
     }
 
+    #trainImg {
+        margin-left: 10.675px;
+        width: 175px;
+        height: 90px;
+    }
+
+    #triviaImg {
+        margin-left: 10.675px;
+        width: 175px;
+        height: 90px;
+    }
+
+    #rpsImg {
+        margin-left: 10.675px;
+        width: 175px;
+        height: 90px;
+    }
+
+    #bustImg {
+        margin-left: 10.675px;
+        width: 175px;
+        height: 90px;
+    }
+
 }
 
 @media screen and (max-height: 376px) and (max-width: 668px) {
