@@ -822,4 +822,28 @@
         height: 70px;
     }
 
+    #trainImg {
+        margin-left: 9.2px;
+        width: 150px;
+        height: 60px;
+    }
+
+    #triviaImg {
+        margin-left: 9.2px;
+        width: 150px;
+        height: 60px;
+    }
+
+    #rpsImg {
+        margin-left: 9.2px;
+        width: 150px;
+        height: 60px;
+    }
+
+    #bustImg {
+        margin-left: 9.2px;
+        width: 150px;
+        height: 60px;
+    }
+
 }
