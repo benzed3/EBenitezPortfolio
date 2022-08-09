@@ -15,7 +15,7 @@
     }
 
     /*Formatting for worksPage.html*/
-    .container {
+    .two {
         margin-top: 25%;
     }
 
@@ -29,12 +29,18 @@
 
 @media screen and (max-height: 912px) and (max-width: 1368px) {
 
+    /*Basick formatting*/
     body {
         background-size: 1368px 912px;
     }
 
     .container {
         margin-top: 18%;
+    }
+
+    /*formatting for .worksPage.html*/
+    #trainImg {
+        margin-left: 40px;
     }
 
 }
