@@ -307,6 +307,30 @@
         height: 125px;
     }
 
+    #trainImg {
+        margin-left: 23.4625px;
+        height: 114px;
+        width: 200px;
+    }
+
+    #triviaImg {
+        margin-left: 23.4625px;
+        height: 114px;
+        width: 200px;
+    }
+
+    #rpsImg {
+        margin-left: 23.4625px;
+        height: 114px;
+        width: 200px;
+    }
+
+    #bustImg {
+        margin-left: 23.4625px;
+        height: 114px;
+        width: 200px;
+    }
+
 }
 
 @media screen and (max-height: 415px) and (max-width: 897px) {
