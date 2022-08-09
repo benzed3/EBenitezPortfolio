@@ -1,6 +1,7 @@
 /*styling for 912x1368 screens*/
 @media screen and (max-width: 912px) and (max-height: 1368px) {
 
+    /*Basic formatting*/
     body {
         background-size: 912px 1368px;
     }
@@ -11,6 +12,11 @@
 
     h4 {
         width: 16%;
+    }
+
+    /*Formatting for worksPage.html*/
+    .worksRow {
+        width: 62%;
     }
 
 }
