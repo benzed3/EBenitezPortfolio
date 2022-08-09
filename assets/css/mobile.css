@@ -767,6 +767,11 @@
         font-size: 13px;
     }
 
+    /*Formatting for worksPage.html*/
+    .two {
+        margin-top: 10%;
+    }
+
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
