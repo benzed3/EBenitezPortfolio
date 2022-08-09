@@ -259,6 +259,30 @@
         height: 75px;
     }
 
+    #trainImg {
+        margin-left: 30px;
+        width: 200px;
+        height: 65px;
+    }
+
+    #triviaImg {
+        margin-left: 30px;
+        width: 200px;
+        height: 65px;
+    }
+
+    #rpsImg {
+        margin-left: 30px;
+        width: 200px;
+        height: 65px;
+    }
+
+    #bustImg {
+        margin-left: 30px;
+        width: 200px;
+        height: 65px;
+    }
+
 }
 
 /*styling for 414x896*/
