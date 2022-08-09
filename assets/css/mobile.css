@@ -352,12 +352,17 @@
     }
 
     /*Formating for worksPage.html*/
+    .two {
+        margin-top: 3%;
+    }
+
     .col-lg-4 {
         width: 33%;
     }
 
     .worksRow {
         margin: 0;
+        height: 100px;
     }
 
 }
