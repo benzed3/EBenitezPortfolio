@@ -208,6 +208,31 @@
     /*Formatting for worksPage.html*/
     .worksRow {
         height: 100px;
+        width: 55%;
+    }
+
+    #trainImg {
+        margin-left: 43.5px;
+        width: 200px;
+        height: 90px;
+    }
+
+    #triviaImg {
+        margin-left: 43.5px;
+        width: 200px;
+        height: 90px;
+    }
+
+    #rpsImg {
+        margin-left: 43.5px;
+        width: 200px;
+        height: 90px;
+    }
+
+    #bustImg {
+        margin-left: 43.5px;
+        width: 200px;
+        height: 90px;
     }
 
 }
