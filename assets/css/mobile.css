@@ -172,6 +172,7 @@
 /*styling for 600x1024*/
 @media screen and (max-height: 600px) and (max-width: 1025px) {
 
+    /*Basic formatting*/
     body {
         background-size: 1024px 600px;
     }
@@ -182,6 +183,11 @@
 
     .container {
         margin-top: 8%;
+    }
+
+    /*Formatting for worksPage.html*/
+    .two {
+        margin-top: 3%;
     }
 
 }
