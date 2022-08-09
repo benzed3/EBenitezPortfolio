@@ -239,6 +239,7 @@
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
 
+    /*Basic formatting*/
     body {
         background-size: 720px 540px;
     }
@@ -247,8 +248,15 @@
         width: 20%;
     }
 
+    /*Formatting for index.html*/
     .container {
         margin-top: 5%;
+    }
+
+    /*Formatting for worksPage.html*/
+    .worksRow {
+        width: 50%;
+        height: 75px;
     }
 
 }
