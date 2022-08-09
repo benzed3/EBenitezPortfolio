@@ -15,6 +15,10 @@
     }
 
     /*Formatting for worksPage.html*/
+    .container {
+        margin-top: 25%;
+    }
+
     .worksRow {
         width: 62%;
     }
