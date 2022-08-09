@@ -153,12 +153,18 @@
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
 
+    /*Basic Formatting*/
     body {
         background-size: 1024px 768px;
     }
 
     .container {
         margin-top: 15%;
+    }
+
+    /*Formatting for worksPage.html*/
+    .two {
+        margin-top: 10%;
     }
 
 }
