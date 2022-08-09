@@ -818,5 +818,8 @@
     }
 
     /*Formatting for worksPage.html*/
+    .worksRow {
+        height: 70px;
+    }
 
 }
