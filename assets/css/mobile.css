@@ -195,6 +195,7 @@
 /*styling for 540x720*/
 @media screen and (max-width: 540px) and (max-height: 720px) {
 
+    /*Basic formatting*/
     body {
         background-size: 540px 720px;
     }
@@ -202,6 +203,11 @@
     h4 {
         width: 20%;
         font-size: 24px;
+    }
+
+    /*Formatting for worksPage.html*/
+    .worksRow {
+        height: 100px;
     }
 
 }
