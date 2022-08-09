@@ -288,6 +288,7 @@
 /*styling for 414x896*/
 @media screen and (max-width: 415px) and (max-height: 897px) {
 
+    /*Basic formatting*/
     body {
         background-size: 414px 896px;
     }
@@ -299,6 +300,11 @@
 
     .container {
         margin-top: 20%;
+    }
+
+    /*Formatting for worksPage.html*/
+    .worksRow {
+        height: 125px;
     }
 
 }
