@@ -636,6 +636,31 @@
         background-size: 667px 375px;
     }
 
+    /*Formatting for worksPage.html*/
+    #trainImg {
+        margin-left: 9.1px;
+        width: 150px;
+        height: 80px;
+    }
+
+    #triviaImg {
+        margin-left: 9.1px;
+        width: 150px;
+        height: 80px;
+    }
+
+    #rpsImg {
+        margin-left: 9.1px;
+        width: 150px;
+        height: 80px;
+    }
+
+    #bustImg {
+        margin-left: 9.1px;
+        width: 150px;
+        height: 80px;
+    }
+
 }
 
 /*styling for 360x740 screens*/
