@@ -351,6 +351,15 @@
         font-size: 28px;
     }
 
+    /*Formating for worksPage.html*/
+    .col-lg-4 {
+        width: 33%;
+    }
+
+    .worksRow {
+        margin: 0;
+    }
+
 }
 
 /*styling for 412x915*/
