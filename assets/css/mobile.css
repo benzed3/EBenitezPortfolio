@@ -158,6 +158,16 @@
         margin-top: 10%;
     }
 
+    /*Formatting for contact.html*/
+    .container {
+        margin-top: 30%;
+    }
+
+    .contactRow {
+        width: 85%;
+        margin-left: 54px;
+    }
+
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
