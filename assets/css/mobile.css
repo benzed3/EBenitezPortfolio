@@ -432,6 +432,15 @@
         height: 89px;
     }
 
+    /*Formatting for contact.html*/
+    .three {
+        margin-top: 3%;
+    }
+
+    .contactRow {
+        height: 275px;
+    }
+
 }
 
 /*styling for 412x915*/
