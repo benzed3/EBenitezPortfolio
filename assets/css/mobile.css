@@ -55,6 +55,11 @@
         margin-left: 40px;
     }
 
+    /*Formatting for contact.html*/
+    .three {
+        margin-top: 14%;
+    }
+
 }
 
 /*styling for 820x1180 screens*/
@@ -70,7 +75,6 @@
     }
 
     /*Formatting for worksPage.html*/
-
 
 }
 
@@ -104,6 +108,11 @@
     #bustImg {
         margin-left: 30px;
         width: 250px;
+    }
+
+    /*Formatting for worksPage.html*/
+    .three {
+        margin-top: 12%;
     }
 
 }
