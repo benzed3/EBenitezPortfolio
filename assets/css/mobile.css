@@ -259,6 +259,11 @@
         height: 90px;
     }
 
+    /*formatting for contact.html*/
+    .three {
+        margin-top: 17%;
+    }
+
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
