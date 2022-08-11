@@ -365,6 +365,15 @@
         width: 200px;
     }
 
+    /*Formatting for contact.html*/
+    .three {
+        margin-top: 37%;
+    }
+
+    .contactRow {
+        margin-left: 32.08px;
+    }
+
 }
 
 @media screen and (max-height: 415px) and (max-width: 897px) {
