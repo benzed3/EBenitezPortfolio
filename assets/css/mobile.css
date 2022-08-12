@@ -881,6 +881,12 @@
         height: 90px;
     }
 
+    /*contact.html*/
+    .contactRow {
+        margin-left: 21px;
+        height: 375px;
+    }
+
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -929,6 +935,19 @@
         margin-left: 9.2px;
         width: 150px;
         height: 60px;
+    }
+
+    /*contact.html*/
+    .contactRow {
+        height: 175px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 12px;
     }
 
 }
