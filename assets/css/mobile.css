@@ -827,6 +827,13 @@
         height: 80px;
     }
 
+    /*contact.html*/
+    .contactRow {
+        height: 275px;
+        margin: 0;
+        width: 100%;
+    }
+
 }
 
 /*styling for 280x653 screens*/
