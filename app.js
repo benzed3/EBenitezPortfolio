@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     // Get the modal
-    var modal = document.getElementById("myModal");
+    var modal = document.getElementById("myModalTrain");
 
     // Get the button that opens the modal
     var trainClick = document.getElementById("trainImg");
@@ -23,6 +23,37 @@ $(document).ready(function () {
     window.onclick = function (event) {
         if (event.target == modal) {
             modal.style.display = "none";
+        }
+    }
+
+});
+
+//For Trivia Game//
+$(document).ready(function () {
+
+    // Get the modal
+    var modalT = document.getElementById("myModalTrivia");
+
+    // Get the button that opens the modal
+    var trainClick = document.getElementById("triviaImg");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks the button, open the modal 
+    trainClick.onclick = function () {
+        modalT.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function () {
+        modalT.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modalT.style.display = "none";
         }
     }
 
