@@ -1,5 +1,3 @@
-$(document).ready(function () {
-    $("#trainImg").click(function () {
-        alert("clicked.");
-    });
-});
+$('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').trigger('focus')
+})
