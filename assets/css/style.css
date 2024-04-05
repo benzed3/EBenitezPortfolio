@@ -82,6 +82,14 @@ h4 {
     height: 140px;
 }
 
+#ts {
+    position: relative;
+    bottom: 30px;
+    text-align: center;
+    background: black;
+    color: white;
+}
+
 #rpsImg {
     margin-left: 70px;
     width: 300px;
