@@ -160,7 +160,6 @@ h3 a {
     font-family: 'Mukta', sans-serif;
 }
 
-/*MODAL STYLING*/
 /* The Modal (background) */
 .modal {
     display: none;
@@ -173,7 +172,7 @@ h3 a {
     /* Location of the box */
     left: 0;
     top: 0;
-    width: 50%;
+    width: 100%;
     /* Full width */
     height: 100%;
     /* Full height */
@@ -192,7 +191,6 @@ h3 a {
     padding: 20px;
     border: 1px solid #888;
     width: 80%;
-    height: 400px;
 }
 
 /* The Close Button */
